@@ -44,7 +44,13 @@ Anaconda, python, spyder, jupyter ou sublime (Lembrando que se for usar o sublim
 
 ### Estrutura do Projeto 🏗️
 
-*(Estrutura de pastas e scripts do projeto)*
+│
+
+├── README.md
+
+└── scripts/
+
+&nbsp;   └── saude\_informs.py
 
 
 
