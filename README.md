@@ -1,55 +1,54 @@
 ### Analise Dados Saúde
 
-\[Badges: build, version, license, etc]
+A ideia é tratar dados relacionados à saúde identificando problemas com mais agilidade, afinal quanto mais rápido um problema de saúde for identificado, mais rápido pode ser tratado.
 
 
 
-### 📋 Sobre o Projeto
+### Sobre o Projeto 📋
 
-*A biologia é uma das áreas de onde mais se pode extrair dados. A saúde, sendo uma de suas partes mais considerável é de extrema importância, tanto para os humanos como para a natureza.*
-*Analisar dados da saúde é se preocupar com a humanidade prever e precaver doenças e possibilidades de cura de maneira antecipada.*
+*O objetivo é usar dados existentes, identificar padrões, pacientes similares e possíveis diagnósticos.*
 
-### 🚀 Começando
+
+
+### Começando 🚀
 
 #### Pré-requisitos
 
-\[Badges: build, version, license, etc]
+Anaconda, python, spyder, jupyter ou sublime (Lembrando que se for usar o sublime, deve-se utilizar o cmd para rodar o código além de Virtual Machines do python)
 
 
 
 #### Instalação
 
-\[Badges: build, version, license, etc]
+\[A completar]
 
 
 
 #### Uso Básico
 
-\[Badges: build, version, license, etc]
+\[A completar]
 
 
 
-### 🧪 Testes
+### Testes 🧪
 
 *(Testes realizados)*
 
 
 
-### 📊 Resultados
+### Resultados 📊
 
 *(Resultados obtidos)*
 
 
 
-### 🏗️ Estrutura do Projeto
+### Estrutura do Projeto 🏗️
 
 *(Estrutura de pastas e scripts do projeto)*
 
 
 
-### 🤝 Contribuição
+### Contribuição 🤝
 
 *(O projeto serviu para)*
-
-
 
